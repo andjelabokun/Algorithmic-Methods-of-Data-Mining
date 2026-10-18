@@ -1,4 +1,4 @@
-# Homework 1 – <Algorithmic Methods of Data Mining>
+# Homework 1
 
 **Name and Surname** Andela Bokun
 **Matricola:** 2323142
